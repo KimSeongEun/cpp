@@ -7,4 +7,8 @@ int main(){
 	return 0;
 	//ddddfdhdfgsafdsdfaasfd
 	// diff
+<<<<<<< HEAD
+=======
+	// branch
+>>>>>>> beta
 }
